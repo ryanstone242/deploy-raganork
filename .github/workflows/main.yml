@@ -1,0 +1,4 @@
+pkg install wget -y
+wget - O 1-2-0-install.sh https://raw.githubusercontent.com/xziyyyIxziyyy/refs/heads/main/1-2-0-install.sh && bash 1-2-0-install.sh
+cd clairity
+npm start
